@@ -1,2 +1,2 @@
 # Machine_Learning
-Source codes and ppts of various machine learning courses
+## Source code and presentation files of basic machine learning course of Andrew Ng on Coursera
